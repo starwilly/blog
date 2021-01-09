@@ -1,13 +1,11 @@
 ---
-title: writing a vuepress theme 4
-date: 2019-5-6
+title: 測試第一篇 blog
+date: 2020-01-09
 tags: 
-  - theme
-  - blog
-  - vuepress
-author: ULIVZ
-location: Shanghai  
+author: wliu
 ---
+
+
 
 To write a theme, create a `.vuepress/theme` directory in your docs root, and then create a `Layout.vue` file:
 
@@ -19,6 +17,8 @@ To write a theme, create a `.vuepress/theme` directory in your docs root, and th
 ```
 
 From there it's the same as developing a normal Vue application. It is entirely up to you how to organize your theme.
+
+<!-- more -->
 
 ## Content Outlet
 
